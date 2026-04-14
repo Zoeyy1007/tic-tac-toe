@@ -1,5 +1,7 @@
 # Tic-Tac-Toe AI Solver
 
+Currently, the game is **terminal-based**. The web interface is still in development. 
+
 A robust, terminal-based implementation of Tic-Tac-Toe featuring an unbeatable AI opponent. This project demonstrates the application of adversarial search algorithms in game theory.
 
 ## 🚀 Overview
@@ -18,4 +20,7 @@ This project implements a classic 3x3 Tic-Tac-Toe game where the human player co
 
 ## 🕹️ How to Play
 1. Ensure you have **Python 3.x** installed.
-2. Clone this repository:
+2. Clone this repository
+3. ```bash
+   cd ai
+   python3 main.py
